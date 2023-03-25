@@ -1,11 +1,11 @@
 # Simon
-Python based version of the popular simon game
+Python based version of the popular Simon game
 
 To run this, You will need the pygame module. 
 
 This is a desktop version of the popular Simon game. 
 Click on the blinking green button to start a game. 
-In every round of the game, the lights of the previous light will go up +
+In every round of the game, the lights of the previous round will go on +
 always one additional light. You have to push the buttons in the same order they lighted up. 
 The game ends when the buttons are not presssed in the correct order. 
 You will notice this by the lights turning on clockwise twice.
